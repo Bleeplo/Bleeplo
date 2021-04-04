@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Bleeplo
 - 👀 I’m interested in coding, anime, & games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning more about python
 - 📫 Sorry, don't have anything setup to reach me :(
